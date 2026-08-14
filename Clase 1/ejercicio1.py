@@ -1,0 +1,7 @@
+print ("hola :D")
+nombre = input ("Como te llamas?\n")
+print ("Que onda", nombre)
+Edad = input ("Cuantos años tienes?\n")
+print ("Yo tambien tengo", Edad)
+equipo = input ("De que equipo sos?\n")
+print ("Mira vos che, asi que de", equipo)
