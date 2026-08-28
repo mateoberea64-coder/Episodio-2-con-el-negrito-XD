@@ -26,5 +26,3 @@ divicion = numero1 / numero2
 
 print ("Tecnicamente es:", divicion )
 
-
-
