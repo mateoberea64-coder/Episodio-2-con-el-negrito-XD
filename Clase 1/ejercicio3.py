@@ -24,7 +24,7 @@ numero2 = int(input("ingrese el segundo numero: "))
 
 divicion = numero1 / numero2
 
-print ("Tecnicamente es:", divicon )
+print ("Tecnicamente es:", divicion )
 
 
 
